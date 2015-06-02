@@ -1,0 +1,23 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "Express app with ejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+	"express": "*",
+	"ejs": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khonix/nodeapp.git"
+  },
+  "author": "",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/khonix/nodeapp/issues"
+  },
+  "homepage": "https://github.com/khonix/nodeapp"
+}
